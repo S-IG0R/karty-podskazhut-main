@@ -259,6 +259,7 @@ figure {
   color: currentColor;
   font-size: 18px;
   text-align: center;
+  text-transform: uppercase;
 }
 
 .theme_dark .colored-text::after {
